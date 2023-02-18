@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+<h2>Netflix clone created by using react</h2>
+
+
+
+
+
+
+
+![net](https://user-images.githubusercontent.com/110152369/219867705-4e04a67d-7596-4099-826e-f9a9ddd714a8.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
